@@ -1,0 +1,163 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+    font-weight: bold;
+}
+
+#papel{
+    width: 960px;
+    margin: 0 auto;			
+    padding: 10px;
+    font-size: 14px;
+}
+
+#parte1{
+    margin: 30px 30px 0px 30px;
+}
+
+#papel2{
+    margin: 0px 30px 0px 30px;
+}
+
+#parte2-1{
+    margin-top: 20px;
+    margin-bottom: 7px;
+    width: 95%;
+}
+
+#img1{
+    width: 120px;
+}
+
+#titulo{
+    font-size: 20px;
+    padding-left: 45%;
+}
+
+#img2{
+    width: 100%;
+}
+
+#zero{
+    padding-left: 70%;
+}
+
+#um{
+    border-radius: 7px;
+    margin-bottom: 5px;
+    
+}
+
+#dois{
+    margin-right: 13%;
+    width: 250pt;
+}
+
+#cinco{
+    margin-right: 25%;
+}
+
+#cinco, #seis, #sete, #oito, #nove, #dez, #onze, #doze{
+    margin-top: 5px;
+    margin-bottom: 1px;
+}
+
+#sete{
+    width: 200pt;
+}
+
+#oito, #nove, #dez, #onze{
+    margin-right: 55pt;
+}
+
+#nove{
+    width: 60px;
+    text-align: center;
+}
+
+#dez{
+    width: 100px;
+}
+
+#doze{
+    width: 200pt;
+}
+
+#parte2-2-1{
+    font-size: 13px;
+}
+
+#campo13{
+    width: 800px;
+}
+
+#campo14{
+    width: 800px;
+}
+
+h5{
+    text-align: center;
+}
+
+#l1, #l2{
+    text-align: center;
+    margin-left: 30px;
+}
+
+#campo15{
+    margin-right: 10px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#campo16{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#l3{
+    margin-left: 225pt;
+}
+
+#campo17{
+    margin-top: 15px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.visto1{
+    width: 430px;
+    margin-top: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    display: inline-block;
+    font-size: 9pt;
+}
+
+
+
+.d1{
+    margin-left: 25px;
+    width: 80%;
+}
+
+.b2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.b2 input{
+    border: none;
+    border-bottom: 2px solid black;
+    width: 200pt;
+}
+
+#enviar{
+    background-color: blue;
+    color: white;
+    width: 100pt;
+    height: 30pt;
+    margin: 25pt 25pt 10pt 300pt;
+}
